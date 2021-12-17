@@ -1,0 +1,27 @@
+Chissà perché, per quanto ci provi e segua alla lettera la ricetta, non vengono mai come quelle di nonna! Ho studiato alla perfezione tutti gli ingredienti, 
+le quantità, i tempi e modalità di cottura, ma alla fine le lasagne della nonna sono sempre di un altro livello!
+  
+  1- Lista ingredienti:
+      <!--Check ingredienti-->
+          SE li abbiamo  si procede con l'assemblaggio
+          ALTRIMENTI si va al supermercato per gli ingredienti mancanti
+  2- Assemblaggio degli strati
+        AGGIUNGI STRATO FINCHE' abbastanza ragù AND abbastanza besciamella AND abbastanza pasta 
+        ALTRIMENTI Passi alla cottura
+  3- Cottura
+     <!--Forno caldo-->
+       SE il forno è a 180 gradi allora metti dentro la lasagna
+       ALTRIMENTI aspetti che sia a 180 gradi
+     <!--Cottura della lasagna-->
+        controllare dopo 120 minuti la lasagna SE è cotta allora tirare fuori la lasagna
+       ALTRIMENTI rimetterla dentro per 10 minuti e ricontrollare
+  4- Assaggio
+      SE è buona come quelle della nonna allora si passa all'impiattamento
+      ALTRIMENTI si ritorna lla lista degli ingredienti
+  5- Impiattamento
+       controllare la lasagna  SE non è troppo calda allora mettere una fetta nel piatto
+      ALTRIMENTI lasciarla riposare 10 minuti e controllare
+      
+
+
+
